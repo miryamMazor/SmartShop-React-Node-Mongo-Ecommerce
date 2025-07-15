@@ -1,0 +1,17 @@
+.home {
+    background-image: url('https://as1.ftcdn.net/v2/jpg/02/15/12/34/1000_F_215123421_mbjPnUjETPSLF6lP6lPXTlMJKeRomS2P.jpg');
+
+    /* background-image: url('https://www.mylist.co.il/wp-content/uploads/2023/06/%D7%9E%D7%97%D7%A9%D7%91-%D7%A0%D7%99%D7%99%D7%93-%D7%A2%D7%9D-%D7%A1%D7%9E%D7%9C%D7%99%D7%9D-%D7%95%D7%A9%D7%9E%D7%95%D7%AA-%D7%A9%D7%9C-%D7%A9%D7%A4%D7%95%D7%AA-%D7%AA%D7%9B%D7%A0%D7%95%D7%AA-%D7%A2%D7%9C-%D7%A8%D7%A7%D7%A2-%D7%95%D7%A8%D7%95%D7%93-1024x576.jpg'); */
+    background-size: cover; /* This will make sure the image covers the entire background */
+    background-position: center; /* Center the background image */
+    padding: 1px;
+    color: rgb(8, 8, 8);
+
+    background-repeat: no-repeat; /* Do not repeat the background image */
+  }
+  /* .home {
+      text-shadow: 
+          -1px -1px 0 #000,  
+          1px -1px 0 #000,
+          -2px 1px 0 #000,
+          2px 2px 0 #040101; /* מסגרת שחורה מסביב לטקסט */

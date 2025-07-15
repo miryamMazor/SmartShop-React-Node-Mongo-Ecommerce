@@ -1,0 +1,42 @@
+.div {
+    width: 100vw;
+    height: 2.5rem;
+    background-color: black;
+    text-align: center;
+    padding: 1rem;
+}
+
+.link {
+    color: cornsilk;
+    font-size: 1rem;
+    margin: 0 1rem;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: aquamarine;
+}
+
+/* עיצוב שיוחל על הלינק העכשווי */
+/* חובה לקרוא בשם זה */
+.active {
+    color: chartreuse;
+}
+
+.list {
+    text-align: center;
+    /* margin-left: 8rem; */
+    float: left;
+    width: 30vw;
+}
+
+.add {
+    border: 1.5px black double;
+    margin-top: 10rem;
+    text-align: center;
+    width: 30vw;
+    /* margin-right: 8rem; */
+    float: right;
+    font-size: larger;
+    padding: 5rem;
+}

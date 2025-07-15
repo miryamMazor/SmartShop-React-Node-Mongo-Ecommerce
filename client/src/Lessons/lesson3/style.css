@@ -1,0 +1,41 @@
+.div {
+    background-color: green;
+    border: double 2px black;
+    font-size: 20px;
+    width: 200px;
+    height: 100px;
+}
+
+.big {
+    font-size: xx-large;
+    color: crimson;
+}
+
+.small {
+    font-size: smaller;
+    color: chartreuse;
+}
+
+.console {
+    font-size: large;
+    text-align: center;
+}
+
+.error {
+    color: red;
+}
+
+.warning {
+    color: yellow
+}
+
+.info {
+    color: lightblue;
+}
+
+img {
+    text-align: center;
+    width: 400px;
+    height: auto;
+    margin: 2px;
+}
